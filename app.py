@@ -82,4 +82,8 @@ def main():
  
 if __name__ == '__main__':
     main()
+<<<<<<< HEAD
     print("This is development branch")
+=======
+    print("This is new branch")
+>>>>>>> new-branch
